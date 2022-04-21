@@ -7,7 +7,7 @@ const foregroundColor = '#dcddd9';
 const borderColor = '#4c4c4c';
 const cursorColor = '#97979b';
 const selectionColor = 'rgba(81, 94, 101, 0.3)';
-const highlightLine = 'rgba(62, 73, 79, 0.6)';
+const highlightLine = 'rgba(88, 114, 121, 0.6)';
 
 const red = '#ff3B30';
 const green = '#4cd964';
