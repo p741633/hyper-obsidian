@@ -1,0 +1,20 @@
+{
+  "name": "hyper-obsidian",
+  "version": "1.0.0",
+  "description": "Hyper dark theme",
+  "license": "MIT",
+  "repository": "p741633/hyper-obsidian",
+  "author": {
+    "name": "PiriyaV",
+    "email": "p741633@hotmail.com",
+    "url": "https://github.com/p741633/"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "obsidian"
+  ]
+}

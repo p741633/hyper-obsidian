@@ -1,2 +1,19 @@
-# hyper-obsidian
-Hyper dark theme for the Hyper terminal
+<div align="center">
+  <img src="media/screenshot.png" alt="Hyper Stygian">
+</div>
+
+# Description
+
+- Hyper dark theme for the [Hyper](https://hyper.is) terminal.
+
+## Install
+
+```bash
+$ hyper i hyper-obsidian
+```
+
+## Related
+
+- [hyper-aliens](https://github.com/p741633/hyper-aliens)
+- [hyper-stygian](https://github.com/p741633/hyper-stygian)
+- [hyper-obsidian](https://github.com/p741633/hyper-obsidian)
